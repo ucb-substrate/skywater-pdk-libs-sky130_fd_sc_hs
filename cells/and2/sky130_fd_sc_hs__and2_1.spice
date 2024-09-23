@@ -21,5 +21,5 @@ X1 a_56_136# B VPWR VPB sky130_fd_pr__pfet_01v8 w=840000u l=150000u
 X2 a_143_136# B VGND VNB sky130_fd_pr__nfet_01v8_lvt w=640000u l=150000u
 X3 VGND a_56_136# X VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X4 a_56_136# A a_143_136# VNB sky130_fd_pr__nfet_01v8_lvt w=640000u l=150000u
-X5 VPWR a_56_136# X VPB sky130_fd_pr__pfet_01v8 w=1.12e+06u l=150000u
+X5 VPWR a_56_136# X VPB sky130_fd_pr__pfet_01v8 w=1.12 l=150000u
 .ends

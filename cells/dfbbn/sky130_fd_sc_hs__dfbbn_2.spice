@@ -16,19 +16,19 @@
 
 
 .subckt sky130_fd_sc_hs__dfbbn_2 CLK_N D RESET_B SET_B VGND VNB VPB VPWR Q Q_N
-X0 VPWR a_27_74# a_200_74# VPB sky130_fd_pr__pfet_01v8 w=1.12e+06u l=150000u
+X0 VPWR a_27_74# a_200_74# VPB sky130_fd_pr__pfet_01v8 w=1.12 l=150000u
 X1 a_1240_125# a_27_74# a_1335_112# VNB sky130_fd_pr__nfet_01v8_lvt w=550000u l=150000u
 X2 Q a_2516_368# VGND VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X3 VGND a_473_405# a_529_119# VNB sky130_fd_pr__nfet_01v8_lvt w=420000u l=150000u
-X4 VPWR a_1555_410# Q_N VPB sky130_fd_pr__pfet_01v8 w=1.12e+06u l=150000u
+X4 VPWR a_1555_410# Q_N VPB sky130_fd_pr__pfet_01v8 w=1.12 l=150000u
 X5 Q_N a_1555_410# VGND VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X6 a_311_119# D VPWR VPB sky130_fd_pr__pfet_01v8 w=420000u l=150000u
 X7 VGND a_2516_368# Q VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
-X8 a_1931_392# a_1335_112# a_1555_410# VPB sky130_fd_pr__pfet_01v8 w=1e+06u l=150000u
+X8 a_1931_392# a_1335_112# a_1555_410# VPB sky130_fd_pr__pfet_01v8 w=1 l=150000u
 X9 VGND SET_B a_1832_74# VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X10 a_930_424# a_975_322# VPWR VPB sky130_fd_pr__pfet_01v8 w=840000u l=150000u
 X11 a_867_125# SET_B VGND VNB sky130_fd_pr__nfet_01v8_lvt w=550000u l=150000u
-X12 VPWR a_2516_368# Q VPB sky130_fd_pr__pfet_01v8 w=1.12e+06u l=150000u
+X12 VPWR a_2516_368# Q VPB sky130_fd_pr__pfet_01v8 w=1.12 l=150000u
 X13 a_1640_138# a_1555_410# VGND VNB sky130_fd_pr__nfet_01v8_lvt w=420000u l=150000u
 X14 VGND a_27_74# a_200_74# VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X15 a_1335_112# a_27_74# a_1504_508# VPB sky130_fd_pr__pfet_01v8 w=420000u l=150000u
@@ -36,7 +36,7 @@ X16 VPWR a_473_405# a_536_503# VPB sky130_fd_pr__pfet_01v8 w=420000u l=150000u
 X17 a_1555_410# a_1335_112# a_1832_74# VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X18 a_601_119# a_27_74# a_311_119# VPB sky130_fd_pr__pfet_01v8 w=420000u l=150000u
 X19 a_601_119# a_200_74# a_311_119# VNB sky130_fd_pr__nfet_01v8_lvt w=420000u l=150000u
-X20 a_27_74# CLK_N VPWR VPB sky130_fd_pr__pfet_01v8 w=1.12e+06u l=150000u
+X20 a_27_74# CLK_N VPWR VPB sky130_fd_pr__pfet_01v8 w=1.12 l=150000u
 X21 a_1504_508# a_1555_410# VPWR VPB sky130_fd_pr__pfet_01v8 w=420000u l=150000u
 X22 a_529_119# a_27_74# a_601_119# VNB sky130_fd_pr__nfet_01v8_lvt w=420000u l=150000u
 X23 VGND a_473_405# a_1240_125# VNB sky130_fd_pr__nfet_01v8_lvt w=550000u l=150000u
@@ -45,15 +45,15 @@ X25 a_311_119# D VGND VNB sky130_fd_pr__nfet_01v8_lvt w=420000u l=150000u
 X26 a_975_322# RESET_B VGND VNB sky130_fd_pr__nfet_01v8_lvt w=420000u l=150000u
 X27 a_536_503# a_200_74# a_601_119# VPB sky130_fd_pr__pfet_01v8 w=420000u l=150000u
 X28 a_473_405# a_601_119# a_930_424# VPB sky130_fd_pr__pfet_01v8 w=840000u l=150000u
-X29 VPWR a_975_322# a_1931_392# VPB sky130_fd_pr__pfet_01v8 w=1e+06u l=150000u
+X29 VPWR a_975_322# a_1931_392# VPB sky130_fd_pr__pfet_01v8 w=1 l=150000u
 X30 VPWR SET_B a_473_405# VPB sky130_fd_pr__pfet_01v8 w=840000u l=150000u
-X31 Q_N a_1555_410# VPWR VPB sky130_fd_pr__pfet_01v8 w=1.12e+06u l=150000u
+X31 Q_N a_1555_410# VPWR VPB sky130_fd_pr__pfet_01v8 w=1.12 l=150000u
 X32 VGND a_1555_410# Q_N VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X33 a_2516_368# a_1555_410# VGND VNB sky130_fd_pr__nfet_01v8_lvt w=640000u l=150000u
-X34 a_1555_410# SET_B VPWR VPB sky130_fd_pr__pfet_01v8 w=1e+06u l=150000u
+X34 a_1555_410# SET_B VPWR VPB sky130_fd_pr__pfet_01v8 w=1 l=150000u
 X35 VPWR a_473_405# a_1312_424# VPB sky130_fd_pr__pfet_01v8 w=840000u l=150000u
-X36 a_2516_368# a_1555_410# VPWR VPB sky130_fd_pr__pfet_01v8 w=1e+06u l=150000u
-X37 Q a_2516_368# VPWR VPB sky130_fd_pr__pfet_01v8 w=1.12e+06u l=150000u
+X36 a_2516_368# a_1555_410# VPWR VPB sky130_fd_pr__pfet_01v8 w=1 l=150000u
+X37 Q a_2516_368# VPWR VPB sky130_fd_pr__pfet_01v8 w=1.12 l=150000u
 X38 a_1832_74# a_975_322# a_1555_410# VNB sky130_fd_pr__nfet_01v8_lvt w=740000u l=150000u
 X39 a_975_322# RESET_B VPWR VPB sky130_fd_pr__pfet_01v8 w=640000u l=150000u
 X40 a_1312_424# a_200_74# a_1335_112# VPB sky130_fd_pr__pfet_01v8 w=840000u l=150000u
